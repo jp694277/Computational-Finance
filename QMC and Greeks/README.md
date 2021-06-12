@@ -1,0 +1,1 @@
+- QMC: `Sobol`, `Faure`, `Halton` and `Good Lattice Rules` with `RW`, `BB` and `PCA` for option pricing
